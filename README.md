@@ -7,7 +7,7 @@ It illustrates a general architecture for GPTs that use both "documents", i.e. s
 
 The diagram below shows the architecture.
 
-![Architecture Overview Placeholder](image-url-here)
+![Architecture Overview Placeholder](https://raw.githubusercontent.com/rdentato/bartender/main/imgs/SimpleGPTs_arch.png)
 
 Note that this is equivalent to the process below:
 
