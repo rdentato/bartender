@@ -15,7 +15,9 @@ Note that this is equivalent to the process below:
 
 The core objective of Bartender is to illustrate the construction of a pipeline where the initial step involves a Language Model (LLM) processing the user's input. This output is then passed to a deterministic script, which performs specific, predefined operations. The result of this script is subsequently fed into another LLM step, culminating in the final output. This approach highlights the seamless integration of AI-driven and deterministic processes in a single workflow.
 
-![Process flow](image-url-here)
+![Process flow](https://raw.githubusercontent.com/rdentato/bartender/main/imgs/SimpleGPT_flow.png)
+
+Where the LLM is used to process the Input/Output of a regular program.
 
 ## License
 
